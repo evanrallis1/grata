@@ -1,5 +1,5 @@
 (function(){
-if(Grata_Widget && Grata_Widget.business_id && Grata_Widget.user_id){
+if(Grata_Widget && Grata_Widget.business_id){
 	var h='k2b3lpt95z';
 	var l='https://app.gratapro.com/assets/img/grataWidgetBtn.png';
 	var e='https://app.gratapro.com/assets/img/btn-close.png';
