@@ -4,7 +4,7 @@ if(Grata_Widget && Grata_Widget.business_id){
 	var l='https://app.gratapro.com/assets/img/grataWidgetBtn.png';
 	var e='https://app.gratapro.com/assets/img/btn-close.png';
 	var c='https://app.gratapro.com/assets/css/grata-embed-v1.css';
-	var i='https://app.gratapro.com/submit-rating/business?business='+Grata_Widget.business_id+'&employee='Grata_Widget.user_id;
+	var i='https://app.gratapro.com/submit-rating/business?business='+Grata_Widget.business_id;
 
 	var link = document.createElement("link");
 	link.href = c;
